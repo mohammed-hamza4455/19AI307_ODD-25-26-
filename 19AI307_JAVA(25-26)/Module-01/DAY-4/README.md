@@ -1,4 +1,4 @@
-#Ex.No:1(D) ARRAYS
+# Ex.No:1(D) ARRAYS
 
 ## QUESTION:
 Write a Java program to find the index of a given element in an array.
