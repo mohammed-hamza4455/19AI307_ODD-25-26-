@@ -34,8 +34,8 @@ To write a Java program to demonstrate **inheritance and aggregation concepts us
 ```java
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: VISHAL S
-RegisterNumber: 212224040365
+Developed by: MOHAMMED HAMZA M
+RegisterNumber: 212224230167
 */
 
 import java.util.Scanner;
